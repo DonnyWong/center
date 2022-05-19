@@ -2,7 +2,8 @@
 #########################################################################
 # File Name:center.sh
 # Author:Donny
-# Email:wdm666666@gmail.com
+# 文件放在根目录
+# 例：cowsay -f monkey chengxuhoulazy|~/center.sh|lolcat
 # Created Time: 四  5/19 11:26:47 2022
 #########################################################################
 linelist=()
